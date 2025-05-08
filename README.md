@@ -17,7 +17,9 @@ Module 0 - Final Project
 
 ### Data Lifecycle
 
-![datalifecycle](https://github.com/user-attachments/assets/5a58f275-5daa-4538-917c-664947218548)
+<p align="center">
+  <img length="539" width="539" src= "https://github.com/user-attachments/assets/91e44fc4-f703-40fc-8825-448000086d9a">
+</p>
 
   Each stage of this cycle is represented by my step-by-step analysis of this data. The data collection process is completed with Excel, same goes with the processing. Once I am complete with Excel I transition into Python with Pandas for my analysis. Lastly, the presentation of the data is revealed here in the repository. 
 
@@ -37,3 +39,14 @@ Module 0 - Final Project
 
 
 ### Data Types 
+
+  The data types in this dataset are numeric and quantitative. Numeric data for the deaths, death rate, age adjusted death rate, and gender ratios. Quantitative data for the gender ratios once again as I used it for my chart.
+
+
+### Conclusion 
+
+  Next Steps: 
+
+  1. I would've liked to compare this intentional self-harm data to something like accidents except drugs to compare
+  2. Use the data ratio for more than just the deaths possibly the death rate as well
+  3. Have more complex charts
