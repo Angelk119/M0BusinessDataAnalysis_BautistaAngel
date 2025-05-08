@@ -33,4 +33,7 @@ Module 0 - Final Project
 
 ### Python Analysis
 
-  
+  For the Python Analysis, I opened the data onto VS Code and presented the header which showed the named columns. With that I printed the first 5 rows of the data showing 2014 data along with one from 2013. Lastly, I printed the type function to determine the data type of each element in an iterable.
+
+
+### Data Types 
