@@ -26,12 +26,16 @@ Module 0 - Final Project
 
 ### Excel Analysis 
 
-  For the Excel Analysis, I filtered the data containing multiple different fatalities and decided on intentional self-harm. With this I ordered the years into a descending list and hid the mostly unnecessary columns. From here I listed the female and male deaths separately before dividing them by the total deaths getting me the gender ratio. What I learned from this was that the ratio was roughly 50:50.
+  For the Excel Analysis, I filtered the data containing multiple different fatalities and decided on intentional self-harm. With this I ordered the years into a descending list and hid the mostly unnecessary columns. From here I listed the female and male deaths separately before dividing them by the total deaths getting me the gender ratio. What I learned from this was that the ratio was extremely one-sided. I also added the race and ethnicity to the chart realizing that white men have a drastic difference in deaths being in the thousands.
 
  <p align="center">
-  <img width="539" src="https://github.com/user-attachments/assets/1bd71665-f2b5-45bc-b061-73fd98ca1118">
+  <img width="539" src="https://github.com/user-attachments/assets/ab17dc3a-242d-4863-99ce-36f2724cb79c"">
 </p>
 
+<p align="center">
+  <img width="539" src="https://github.com/user-attachments/assets/f2e50f7b-b0b8-4906-9396-4607f9305108"
+">
+</p>
 
 ### Python Analysis
 
@@ -45,6 +49,7 @@ Module 0 - Final Project
 
 ### Conclusion 
 
+  My conclusion to this dataset came to be that white males are majority of the intentional sef-harm cases. A way this problem could be solved would be to seek proper help an promote mental health services even further.
   Next Steps: 
 
   1. I would've liked to compare this intentional self-harm data to something like accidents except drugs to compare
